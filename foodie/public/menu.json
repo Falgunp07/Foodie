@@ -1,0 +1,101 @@
+[
+    {
+        "_id": "642c155b2c4774f05c36eeaa",
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "/images/cart/img1.jpg",
+        "category": "beverages",
+        "price": 160
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeab",
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "/images/cart/img2.jpg",
+        "category": "breakfast",
+        "price": 190
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeac",
+        "name": "Rajasthani Thali",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "/images/cart/img3.jpg",
+        "category": "popular",
+        "price": 120
+    },
+    {
+        "_id": "642c155b2c4774f05c36eead",
+        "name": "Gujarati Thali",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "/images/cart/img4.jpg",
+        "category": "popular",
+        "price": 150
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeae",
+        "name": "Unlimited Thali",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "/images/cart/img5.jpg",
+        "category": "popular",
+        "price": 180
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeaf",
+        "name": "Foodie Special Thali",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "/images/cart/img6.jpg",
+        "category": "popular",
+        "price": 200
+    },
+  
+
+    {
+        "_id": "642c155b2c4774f05c36eeag",
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "/images/cart/img1.jpg",
+        "category": "beverages",
+        "price": 160
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeah",
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "/images/cart/img2.jpg",
+        "category": "breakfast",
+        "price": 190
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeai",
+        "name": "Rajasthani Thali",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "/images/cart/img3.jpg",
+        "category": "popular",
+        "price": 120
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeaj",
+        "name": "Gujarati Thali",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "/images/cart/img4.jpg",
+        "category": "popular",
+        "price": 150
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeak",
+        "name": "Unlimited Thali",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "/images/cart/img5.jpg",
+        "category": "popular",
+        "price": 180
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeal",
+        "name": "Foodie Special Thali",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "/images/cart/img6.jpg",
+        "category": "popular",
+        "price": 200
+    }
+  
+]
