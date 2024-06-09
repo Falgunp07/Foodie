@@ -1,101 +1,290 @@
 [
     {
-        "_id": "642c155b2c4774f05c36eeaa",
-        "name": "Haddock",
-        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "_id": "642c1554774f05c36eeaa",
+        "name": "Punjabi Thali",
+        "recipe": "Famous indian Thali",
         "image": "/images/cart/img1.jpg",
-        "category": "beverages",
+        "category": "popular",
         "price": 160
     },
     {
-        "_id": "642c155b2c4774f05c36eeab",
-        "name": "Haddock",
-        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "_id": "642c155b2c4774f05c36ee",
+        "name": "Desi Thali",
+        "recipe": "Famous indian Thali",
         "image": "/images/cart/img2.jpg",
-        "category": "breakfast",
-        "price": 190
+        "category": "popular",
+        "price": 140
     },
     {
-        "_id": "642c155b2c4774f05c36eeac",
+        "_id": "642c155b2c4774c36eeac",
         "name": "Rajasthani Thali",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "recipe": "Famous indian Thali",
         "image": "/images/cart/img3.jpg",
-        "category": "popular",
+        "category": "unknown",
         "price": 120
     },
     {
-        "_id": "642c155b2c4774f05c36eead",
+        "_id": "642c155b2c4774f036eead",
         "name": "Gujarati Thali",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "recipe": "Famous indian Thali",
         "image": "/images/cart/img4.jpg",
         "category": "popular",
         "price": 150
     },
     {
-        "_id": "642c155b2c4774f05c36eeae",
+        "_id": "642c155b2c4f05c36eeae",
         "name": "Unlimited Thali",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "recipe": "Famous indian Thali",
         "image": "/images/cart/img5.jpg",
-        "category": "popular",
-        "price": 180
+        "category": "unknown",
+        "price": 130
     },
     {
-        "_id": "642c155b2c4774f05c36eeaf",
+        "_id": "642c12c4774f05c36eeaf",
         "name": "Foodie Special Thali",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "recipe": "Famous indian Thali",
         "image": "/images/cart/img6.jpg",
         "category": "popular",
-        "price": 200
+        "price": 170
     },
-  
-
     {
-        "_id": "642c155b2c4774f05c36eeag",
-        "name": "Haddock",
-        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
-        "image": "/images/cart/img1.jpg",
-        "category": "beverages",
+        "_id": "642c155b2c4774f05c3eeag",
+        "name": "Chocolate Ice-Cream",
+        "recipe": "Chocolate Ice-Cream",
+        "image": "/images/cart/img7.jpg",
+        "category": "Dessert",
+        "price": 260
+    },
+    {
+        "_id": "642c155b2c4f05c36eeah",
+        "name": "Strawberry Ice-Cream",
+        "recipe": "Strawberry Ice-Cream",
+        "image": "/images/cart/img8.jpg",
+        "category": "Dessert",
+        "price": 210
+    },
+    {
+        "_id": "642c155b774f05c36eeah",
+        "name": "Special Combo",
+        "recipe": "Special Combo",
+        "image": "/images/cart/img9.jpg",
+        "category": "Dessert",
+        "price": 290
+    },
+    {
+        "_id": "642c155b2c47705c36eeag",
+        "name": "American Capsicum Pizza",
+        "recipe": "Special Pizza",
+        "image": "/images/cart/img10.jpg",
+        "category": "Pizza",
         "price": 160
+    },
+    {
+        "_id": "642c155b2c4774f036eeah",
+        "name": "Corn Pizza",
+        "recipe": "Special Pizza",
+        "image": "/images/cart/img11.jpg",
+        "category": "Pizza",
+        "price": 150
     },
     {
         "_id": "642c155b2c4774f05c36eeah",
-        "name": "Haddock",
-        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
-        "image": "/images/cart/img2.jpg",
-        "category": "breakfast",
+        "name": "Double Cheese Pizza",
+        "recipe": "Special Pizza",
+        "image": "/images/cart/img12.jpg",
+        "category": "Pizza",
         "price": 190
     },
     {
-        "_id": "642c155b2c4774f05c36eeai",
-        "name": "Rajasthani Thali",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "/images/cart/img3.jpg",
+        "_id": "2c155b2c4774f05c36eeaa",
+        "name": "Punjabi Thali",
+        "recipe": "Famous indian Thali",
+        "image": "/images/cart/img1.jpg",
         "category": "popular",
+        "price": 160
+    },
+    {
+        "_id": "642c2c4774f05c36eeab",
+        "name": "Desi Thali",
+        "recipe": "Famous indian Thali",
+        "image": "/images/cart/img2.jpg",
+        "category": "popular",
+        "price": 140
+    },
+    {
+        "_id": "642c155c4774f05c36eeac",
+        "name": "Rajasthani Thali",
+        "recipe": "Famous indian Thali",
+        "image": "/images/cart/img3.jpg",
+        "category": "unknown",
         "price": 120
     },
     {
-        "_id": "642c155b2c4774f05c36eeaj",
+        "_id": "642c155b2c4774f05c36ead",
         "name": "Gujarati Thali",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "recipe": "Famous indian Thali",
         "image": "/images/cart/img4.jpg",
         "category": "popular",
         "price": 150
     },
     {
-        "_id": "642c155b2c4774f05c36eeak",
+        "_id": "642c155b2c4774f05c6eeae",
         "name": "Unlimited Thali",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "recipe": "Famous indian Thali",
         "image": "/images/cart/img5.jpg",
-        "category": "popular",
-        "price": 180
+        "category": "unknown",
+        "price": 130
     },
     {
-        "_id": "642c155b2c4774f05c36eeal",
+        "_id": "642c155bc4774f05c36eeaf",
         "name": "Foodie Special Thali",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "recipe": "Famous indian Thali",
         "image": "/images/cart/img6.jpg",
         "category": "popular",
-        "price": 200
+        "price": 170
+    },
+    {
+        "_id": "642c155b2c47405c36eeag",
+        "name": "Chocolate Ice-Cream",
+        "recipe": "Chocolate Ice-Cream",
+        "image": "/images/cart/img7.jpg",
+        "category": "Dessert",
+        "price": 260
+    },
+    {
+        "_id": "642c15b2c474f05c36eeah",
+        "name": "Strawberry Ice-Cream",
+        "recipe": "Strawberry Ice-Cream",
+        "image": "/images/cart/img8.jpg",
+        "category": "Dessert",
+        "price": 210
+    },
+    {
+        "_id": "642c15b2c4774f05c36eeah",
+        "name": "Special Combo",
+        "recipe": "Special Combo",
+        "image": "/images/cart/img9.jpg",
+        "category": "Dessert",
+        "price": 290
+    },
+    {
+        "_id": "64c155b2c4774f05c36eeag",
+        "name": "American Capsicum Pizza",
+        "recipe": "Special Pizza",
+        "image": "/images/cart/img10.jpg",
+        "category": "Pizza",
+        "price": 160
+    },
+    {
+        "_id": "52c155b2c4774f05c36eeah",
+        "name": "Corn Pizza",
+        "recipe": "Special Pizza",
+        "image": "/images/cart/img11.jpg",
+        "category": "Pizza",
+        "price": 150
+    },
+    {
+        "_id": "42c155b2c4774f05c36eeah",
+        "name": "Double Cheese Pizza",
+        "recipe": "Special Pizza",
+        "image": "/images/cart/img12.jpg",
+        "category": "Pizza",
+        "price": 190
+    },
+    {
+        "_id": "2c155b2fc4774f05c36aa",
+        "name": "Punjabi Thali",
+        "recipe": "Famous indian Thali",
+        "image": "/images/cart/img1.jpg",
+        "category": "popular",
+        "price": 160
+    },
+    {
+        "_id": "642c2c344774f05c36eeab",
+        "name": "Desi Thali",
+        "recipe": "Famous indian Thali",
+        "image": "/images/cart/img2.jpg",
+        "category": "popular",
+        "price": 140
+    },
+    {
+        "_id": "642c15f5c4774f05c36eeac",
+        "name": "Rajasthani Thali",
+        "recipe": "Famous indian Thali",
+        "image": "/images/cart/img3.jpg",
+        "category": "unknown",
+        "price": 120
+    },
+    {
+        "_id": "642c155b2cee4774f05c36ead",
+        "name": "Gujarati Thali",
+        "recipe": "Famous indian Thali",
+        "image": "/images/cart/img4.jpg",
+        "category": "popular",
+        "price": 150
+    },
+    {
+        "_id": "642c155b2c4774f0d6eeae",
+        "name": "Unlimited Thali",
+        "recipe": "Famous indian Thali",
+        "image": "/images/cart/img5.jpg",
+        "category": "unknown",
+        "price": 130
+    },
+    {
+        "_id": "642dgc4774f05c36eeaf",
+        "name": "Foodie Special Thali",
+        "recipe": "Famous indian Thali",
+        "image": "/images/cart/img6.jpg",
+        "category": "popular",
+        "price": 170
+    },
+    {
+        "_id": "642c15dg5c36eeag",
+        "name": "Chocolate Ice-Cream",
+        "recipe": "Chocolate Ice-Cream",
+        "image": "/images/cart/img7.jpg",
+        "category": "Dessert",
+        "price": 260
+    },
+    {
+        "_id": "642c15b2c4vn5c36eeah",
+        "name": "Strawberry Ice-Cream",
+        "recipe": "Strawberry Ice-Cream",
+        "image": "/images/cart/img8.jpg",
+        "category": "Dessert",
+        "price": 210
+    },
+    {
+        "_id": "642fc4774f05c36eeah",
+        "name": "Special Combo",
+        "recipe": "Special Combo",
+        "image": "/images/cart/img9.jpg",
+        "category": "Dessert",
+        "price": 290
+    },
+    {
+        "_id": "64c155894f05c36eeag",
+        "name": "American Capsicum Pizza",
+        "recipe": "Special Pizza",
+        "image": "/images/cart/img10.jpg",
+        "category": "Pizza",
+        "price": 160
+    },
+    {
+        "_id": "52c155b2c4sg4f05c36eeah",
+        "name": "Corn Pizza",
+        "recipe": "Special Pizza",
+        "image": "/images/cart/img11.jpg",
+        "category": "Pizza",
+        "price": 150
+    },
+    {
+        "_id": "42c155b2c4djf05c36eeah",
+        "name": "Double Cheese Pizza",
+        "recipe": "Special Pizza",
+        "image": "/images/cart/img12.jpg",
+        "category": "Pizza",
+        "price": 190
     }
-  
 ]

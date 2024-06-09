@@ -6,13 +6,13 @@ import Footer from '../components/Footer';
 
 const Main = () => {
   return (
-    <div> 
-         <Navbar/>
-         <Outlet/>
-         <Footer/>
-         
-        
-         </div>
+    <div>
+      <Navbar />
+      <div className='min-h-screen'> 
+        <Outlet />
+      </div>
+      <Footer />
+    </div>
   )
 }
 

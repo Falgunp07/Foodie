@@ -12,4 +12,31 @@ header {
   @apply max-w-screen-2xl container mx-auto xl:px-24 px-4;
 
 }
+
+.color-changing-background {
+  animation: colorChange 10s infinite alternate ease-in-out;
+}
+
+.color-changing-background {
+  animation: colorChange 10s infinite alternate ease-in-out;
+}
+
+@keyframes colorChange {
+  0% {
+    background: linear-gradient(to right, #f4bea7, #c0f2ac); 
+  }
+  50% {
+    background: linear-gradient(to right, #d4f4f9, #7f94f3);
+  }
+  100% {
+    background: linear-gradient(to right, #f4a7f6, #f46e6e);
+  }
+}
+
+.active{
+  text-decoration: underline;
+  text-underline-offset: 5px;
+  color: #e80eaa;
+}
+
    

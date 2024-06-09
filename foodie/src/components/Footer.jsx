@@ -5,7 +5,7 @@ const Footer = () => {
     <div>
         <footer className="footer xl:px-24 py-10 px-4 text-base-content">
   <aside>
-    <img src="public/logo.jpg" alt="" style= {{ width: '180px', height: '90px'}} />
+    <img src="/logo.jpg" alt="" style= {{ width: '180px', height: '90px'}} />
     <p className='my-5 md:w-40'>Savor the artistry where every dish is a culinary masterpiece</p>
   </aside> 
   <nav>
