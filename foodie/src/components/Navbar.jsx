@@ -1,11 +1,19 @@
-import React, { useEffect, useState } from 'react';
+import React, { useContext, useEffect, useState } from 'react';
 import logo from '/logo.jpg';
-import { FiPhoneCall } from "react-icons/fi";
+import { FaUser } from "react-icons/fa";
+import Modal from './Modal';
+import { AuthContext } from '../contexts/AuthProvider';
+
+
 
 const Navbar = () => {
   const [isSticky, setSticky] = useState(false);
 
-// handle scroll functions
+  
+  const { user } = useContext(AuthContext);
+  console.log(user)
+
+  // handle scroll functions
   useEffect(() => {
     const handleScroll = () => {
       const offset = window.scrollY;
@@ -21,7 +29,7 @@ const Navbar = () => {
     return () => {
       window.addEventListener("scroll", handleScroll);
     }
-  }, [])
+  }, []);
 
 
   const navItems = <>
@@ -48,7 +56,7 @@ const Navbar = () => {
     </li>
     <li><a>Offers</a></li></>
   return (
-  
+
     <header>
       {/* <div className="navbar bg-base-100 bg-gradient-to-r from-[#94FDD0] from-0% to-[#FCFDAF] to-100%"> */}
       <div className="navbar bg-base-100 bg-gradient-to-r from-[#94FDD0] from-0% to-[#FCFDAF] to-100% fixed top-0 left-0 w-full">
@@ -87,9 +95,11 @@ const Navbar = () => {
               <span className="badge badge-sm indicator-item">8</span>
             </div>
           </div>
-          {/* btn  */}
-          <a className="btn bg-green px-6 text-white flex items-center gap-2 rounded-full  bg-gradient-to-r from-[#05FFDF] from-0% to-[#5F80FC] to-100% "><FiPhoneCall /> Contact</a>
+          {/* btn login   */}
+          <button onClick={() => document.getElementById('my_modal_5').showModal()} className="btn bg-green px-6 text-white flex items-center gap-2 rounded-full  bg-gradient-to-r from-[#05FFDF] from-0% to-[#5F80FC] to-100% "><FaUser /> Login</button>
+          
 
+          <Modal />
         </div>
       </div>
 

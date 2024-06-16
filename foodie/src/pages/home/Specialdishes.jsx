@@ -77,7 +77,6 @@ const Specialdishes = () => {
 
   return (
     <div className='section-container my-20 relative'>
-
       <div className='text-center'>
         <p className=' text-red text-2xl  font-semibold text-md'> Special dishes</p>
         <h2 className=' 4xl md:text-5xl font-bold my-2 md:leading-snug'>Standout Dishes From Our Menu</h2>

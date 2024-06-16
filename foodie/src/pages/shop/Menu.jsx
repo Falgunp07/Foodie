@@ -163,7 +163,7 @@ const Menu = () => {
 <div className='flex justify-center my-8'>
     {
         Array.from({length: Math.ceil(filteredItems.length / itemsPerPage)}).map((_, index) => (
-            <button key={index + 1} onClick={() => paginate(index + 1)} className={`mx-1 px-3 py-1 rounded-full${currentpage === index + 1 ? "bg-green text-white" : "bg-gray-200"}`}>
+            <button key={index + 1} onClick={() => paginate(index + 1)} className={`mx-1 px-3 py-1 rounded-full ${currentpage === index + 1 ? "bg-violet-500 text-white" : "bg-gray-200"}`}>
                 {index + 1}
             </button>
         ))
